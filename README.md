@@ -1,9 +1,20 @@
 👋 Hi, Welcome to <a href="https://labs.dese.iisc.ac.in/zenlab/ongoing-projects/tsn/" target="_blank">
-<img src="Media\ZENLab_Logo.png" width=90 alt=ZENLab-TCPS />
+<img src="Media\ZENLab_Logo.png" width=60 alt=ZENLab-TCPS />
 </a> TCPS team 
 
+## 🎯 Objective
+Design and implementation of a Tactile Cyber-Physical System for real-time interaction 
+between physical and virtual worlds for applications requiring ultra-reliable low latency communications (uRLLC).
 
-🌱 Current objective: Design and implementation of a Tactile Cyber-Physical System for real-time interaction 
-between physical and virtual worlds for applications requiring ultra-reliable low latency communications
 
-
+## 👥 People
+### Contributors:
+  * [Joydeep Pal](joygetsit.github.io/) ([@joygetsit](https://github.com/joygetsit))
+  * [Nithish K Gnani](nithishkgnani.github.io/) ([@nithishkgnani](https://github.com/nithishkgnani))
+  * [Deepak Choudhary](deepakc7y.github.io/) ([@deepakc7y](https://github.com/deepakc7y))
+  * Soumya Kanta Rana ([@soumya-rana](https://github.com/soumya-rana/))
+  * Himanshu Verma ([@ihimu](https://github.com/ihimu))
+  * Kaushal Mhapsekar ([@kaushal1803](https://github.com/kaushal1803))
+### Advisors
+  * Chandramani Singh - Associate Professor
+  * T V Prabhakar - Principal Research Scientist
