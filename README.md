@@ -1,6 +1,6 @@
 👋 Hi, Welcome to <a href="https://labs.dese.iisc.ac.in/zenlab/ongoing-projects/tsn/" target="_blank">
 <img src="Media\ZENLab_Logo.png" width=60 alt=ZENLab-TCPS />
-</a> TCPS team 
+</a> TCPS team, Indian Institute of Science (IISc), Bangalore, India. 
 
 ## 🎯 Objective
 Design and implementation of a Tactile Cyber-Physical System for real-time interaction 
