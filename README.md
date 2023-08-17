@@ -9,9 +9,9 @@ between physical and virtual worlds for applications requiring ultra-reliable lo
 
 ## 👥 People
 ### Contributors:
-  * [Joydeep Pal](joygetsit.github.io/) ([@joygetsit](https://github.com/joygetsit))
-  * [Nithish K Gnani](nithishkgnani.github.io/) ([@nithishkgnani](https://github.com/nithishkgnani))
-  * [Deepak Choudhary](deepakc7y.github.io/) ([@deepakc7y](https://github.com/deepakc7y))
+  * [Joydeep Pal](https://joygetsit.github.io/) ([@joygetsit](https://github.com/joygetsit))
+  * [Nithish K Gnani](https://nithishkgnani.github.io/) ([@nithishkgnani](https://github.com/nithishkgnani))
+  * [Deepak Choudhary](https://deepakc7y.github.io/) ([@deepakc7y](https://github.com/deepakc7y))
   * Soumya Kanta Rana ([@soumya-rana](https://github.com/soumya-rana/))
   * Himanshu Verma ([@ihimu](https://github.com/ihimu))
   * Kaushal Mhapsekar ([@kaushal1803](https://github.com/kaushal1803))
